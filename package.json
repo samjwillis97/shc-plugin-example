@@ -1,0 +1,13 @@
+{
+  "name": "shc-plugin-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "shc": {
+    "id": "example",
+    "displayName": "Example plugin",
+    "description": ""
+  },
+  "dependencies": {
+    "zod": "^3.23.8"
+  }
+}
