@@ -9,4 +9,5 @@ exports["template-handlers"] = {
   build: () => {
     return "http://localhost:3000";
   },
+  httpBinUrl: () => "https://httpbin.org",
 };
