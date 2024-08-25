@@ -5,3 +5,9 @@ exports["pre-request-hooks"] = {
     return "";
   },
 };
+
+exports["template-handlers"] = {
+  build: () => {
+    return "http://localhost:3000";
+  },
+};
