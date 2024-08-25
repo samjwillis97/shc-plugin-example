@@ -7,6 +7,9 @@
     "displayName": "Example plugin",
     "description": ""
   },
+  "repository": {
+    "url": "https://github.com/samjwillis97/shc-plugin-example"
+  },
   "dependencies": {
     "zod": "^3.23.8"
   }
