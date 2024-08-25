@@ -1,6 +1,6 @@
 {
   "name": "shc-plugin-example",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0-alpha.1",
   "main": "index.js",
   "shc": {
     "id": "example",
